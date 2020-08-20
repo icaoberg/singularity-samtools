@@ -1,5 +1,4 @@
 # singularity-samtools
-[![Hosted](https://img.shields.io/badge/hosted-sylabs.io-green.svg)](https://cloud.sylabs.io/library/icaoberg/default/samtools)
 ![Release](https://img.shields.io/badge/release-v1.10-green.svg)
 [![Build Status](https://travis-ci.org/icaoberg/singularity-samtools.svg?branch=master)](https://travis-ci.org/icaoberg/singularity-samtools)
 [![GitHub issues](https://img.shields.io/github/issues/icaoberg/singularity-samtools.svg)](https://github.com/icaoberg/singularity-samtools/issues)
@@ -22,7 +21,7 @@ Run the script `build.sh` to build image locally.
 bash ./build.sh
 ```
 
-### To build the image remotely remotely
+### To build the image remotely
 Run the script `rbuild.sh` to build image remotely.
 
 ```
