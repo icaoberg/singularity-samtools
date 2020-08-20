@@ -35,4 +35,4 @@ You will need to edit the script above to match your account on [SyLabs.io](http
 I am nothing but a humble programmer creating the container for this wonderful app.
 
 ---
-Copyleft © 2019-2020 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Pittsburgh Supercomputing Center](http://www.psc.edu) in [Carnegie Mellon University](http://www.cmu.edu)
+Copyright © 2020 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Pittsburgh Supercomputing Center](http://www.psc.edu) in [Carnegie Mellon University](http://www.cmu.edu)
